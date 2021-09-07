@@ -1,6 +1,8 @@
 # mlpp_grad
 I choose to focus my dataset on the households of Pennsylvania and break the data down based on marriage and children.
 
+These variables are of interest to me as a Pennsylvanian and as young adult that could find myself in one of these groups soon. 
+
 ## Get Data: 
 I opt to use a manual request as I can customize the call as I see fit. Libraries, although convenient, can receive bad updates and require documentation browsing. Customized requests are much faster for this purpose. 
 
@@ -36,5 +38,6 @@ Next I create the ewinter_acs_table and insert the ~10 thousand rows into it usi
 
 
 ## Overall
-I am pleased with the API portion of this project and in the future would combine parts 1 and 2. 
-In the future I am considering writing the database sections as functions to give more flexibility.
+- I am pleased with the API portion of this project and in the future would combine parts 1 and 2. 
+- In the future I am considering writing the database sections as functions to give more flexibility.
+
